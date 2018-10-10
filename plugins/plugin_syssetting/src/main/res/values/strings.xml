@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">plugin_syssetting</string>
+    <string name="clean_log">清空日志</string>
+    <string name="issues_cert">颁发证书</string>
+    <string name="start_proxy">启动代理</string>
+    <string name="access_application">访问应用</string>
+    <string name="stop_proxy">停止代理</string>
+    <string name="revoke_cert">废除证书</string>
+</resources>
